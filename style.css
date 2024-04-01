@@ -1,0 +1,21 @@
+th{
+    color: red;
+    border:1px solid  black;
+}
+td{
+    color: blue;
+    border: 2px black;
+}
+
+.hello{
+    color: red;
+    border:2px solid black;
+    width:5;
+    background-color: yellow;
+    margin-left: 100px;
+    padding-left: 30px;
+}
+td{
+    color: green;
+    border: 3px red;
+}
